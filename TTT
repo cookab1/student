@@ -1,0 +1,5 @@
+cd Games/TTT
+javac *.java
+java Play
+cd 
+
